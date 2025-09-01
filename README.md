@@ -1,7 +1,7 @@
 # MedBotanica
-# web app done - INITIATED
-# mobile app done - INITIATED
-# backend - INITIATED
+### web app -Next.js
+### mobile app - React Native CLI
+### backend - Ptyon fast api
 
 
 ## Main Repo
