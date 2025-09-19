@@ -1,0 +1,16 @@
+[
+  {
+    "image_path": "images/tulsi_1.jpg",
+    "captions": [
+      "A green herbal plant with small purple flowers",
+      "Tulsi plant with medicinal properties"
+    ],
+    "metadata": {
+      "species": "Ocimum tenuiflorum",
+      "common_name": "Tulsi",
+      "family": "Lamiaceae",
+      "region": "India",
+      "source_url": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum"
+    }
+  }
+]

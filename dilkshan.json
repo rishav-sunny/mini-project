@@ -1,0 +1,418 @@
+[
+    {
+        "image_path": "images/lemongrass_1.jpg",
+        "captions": [
+            "A cluster of long green lemongrass stalks with a fresh citrus aroma",
+            "Lemongrass plant used in herbal teas and traditional medicine",
+            "Medicinal grass known for reducing anxiety and improving digestion",
+            "Lemongrass with tall slender leaves, widely used in Ayurveda",
+            "Herbal plant believed to lower blood pressure and boost oral health",
+            "Citrusy herbal plant rich in citral compound with antimicrobial effects",
+            "Fresh lemongrass stalks commonly brewed into calming herbal tea"
+        ],
+        "metadata": {
+            "species": "Cymbopogon citratus",
+            "common_name": "Lemongrass",
+            "family": "Poaceae",
+            "region": "Tropical and subtropical regions of Asia and Africa",
+            "source_urls": [
+                "https://ayurved.dpu.edu.in/blogs/ayurvedic-health-benefits-of-lemon-grass",
+                "https://www.1mg.com/ayurveda/lemongrass-170?srsltid=AfmBOoqVjpAsbEfOzydIlvc-0HEYgggtqQXb-h3wTHpIXCXQBFzIsb9b"
+            ]
+        }
+    },
+    {
+        "image_path": "images/amruta_balli_1.jpg",
+        "captions": [
+            "A climbing herbal vine known as Amruthaballi or Guduchi",
+            "Ayurvedic plant called the root of immortality for its healing power",
+            "Giloy plant with immunity-boosting and anti-inflammatory properties",
+            "A medicinal creeper used in Ayurveda to treat fever and infections",
+            "Amruthaballi stem traditionally used for digestion and stress relief",
+            "Herbal vine rich in bioactive compounds with adaptogenic benefits",
+            "Sacred Ayurvedic plant valued for vitality, longevity, and wellness"
+        ],
+        "metadata": {
+            "species": "Tinospora cordifolia",
+            "common_name": "Amruta Balli / Guduchi / Giloy",
+            "family": "Menispermaceae",
+            "region": "Tropical regions of India and Southeast Asia",
+            "source_urls": [
+                "https://www.ayurcentralonline.com/amruthaballi-plant/?srsltid=AfmBOoqWv6FMf_74YgMOfuUOHjYsTQfbjDiQHOA1LO1svZ5RZmYLrF9C",
+                "https://upakarma.com/blogs/top-10-health-benefits-of-giloy-giloy-uses/",
+                "https://healthybuddha.in/blog/magazine-blog/amruthaballi-a-divine-herb"
+            ]
+        }
+    },
+    {
+        "image_path": "images/ashwagandha_1.jpg",
+        "captions": [
+            "Ashwagandha plant with small green leaves and red berries",
+            "Ayurvedic herb known for its adaptogenic and anti-stress effects",
+            "Herbal root widely used to boost energy, stamina, and immunity",
+            "Ashwagandha plant used in Ayurveda for anxiety and neuroprotection",
+            "Medicinal herb with anti-inflammatory and anti-tumor properties",
+            "Ashwagandha root extract studied for cognitive and memory benefits",
+            "Traditional Indian herb believed to enhance athletic performance"
+        ],
+        "metadata": {
+            "species": "Withania somnifera",
+            "common_name": "Ashwagandha / Indian Ginseng / Winter Cherry",
+            "family": "Solanaceae",
+            "region": "India, Middle East, and parts of Africa",
+            "source_urls": [
+                "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1439294/full",
+                "https://ayurved.dpu.edu.in/blogs/ashwagandha-health-benefits",
+                "https://examine.com/supplements/ashwagandha/?srsltid=AfmBOopwcnysuY-d9tw9ikeLwPzlCGeYBMQ9XpybuH0Nb4C6aBjLpk5w",
+                "https://www.bannerhealth.com/healthcareblog/advise-me/the-pros-and-cons-of-ashwagandha-for-athletes"
+            ]
+        }
+    },
+    {
+        "image_path": "images/balloon_vine_1.jpg",
+        "captions": [
+            "Balloon Vine plant with green leaves and inflated capsule-like fruits",
+            "Medicinal climbing herb traditionally used for joint and skin problems",
+            "Cardiospermum halicacabum known for treating constipation and fever",
+            "Ayurvedic vine used for asthma, stomach issues, and diabetes relief",
+            "Balloon Vine fruit with laxative properties and healing effects",
+            "Traditional medicine plant used for arthritis, gout, and urinary disorders",
+            "Herbal vine with potential benefits for heart health and liver function"
+        ],
+        "metadata": {
+            "species": "Cardiospermum halicacabum",
+            "common_name": "Balloon Vine / Love in a Puff",
+            "family": "Sapindaceae",
+            "region": "Tropical and subtropical regions worldwide",
+            "source_urls": [
+                "https://urbanmali.com/blogs/ballon-vine-all-you-need-to-know-about-this-plant",
+                "https://weeds.dpi.nsw.gov.au/Weeds/Balloonvine",
+                "https://cultivatorphytolab.com/balloon-vine-is-a-cyanogenic-plant/",
+                "https://plants.ces.ncsu.edu/plants/cardiospermum-halicacabum/",
+                "https://www.inaturalist.org/taxa/62944-Cardiospermum-halicacabum"
+            ]
+        }
+    },
+    {
+        "image_path": "images/betel_1.jpg",
+        "captions": [
+            "Betel plant with glossy green heart-shaped leaves",
+            "Ayurvedic medicinal leaf known for digestive and oral health benefits",
+            "Betel leaf traditionally chewed to boost immunity and improve mood",
+            "A natural remedy for cough, asthma, and other respiratory issues",
+            "Herbal leaf paste used to heal wounds and fight skin infections",
+            "Paan leaves with antibacterial properties that promote oral hygiene",
+            "Medicinal plant rich in antioxidants and bioactive compounds"
+        ],
+        "metadata": {
+            "species": "Piper betle",
+            "common_name": "Betel / Paan Leaf",
+            "family": "Piperaceae",
+            "region": "Tropical regions of South and Southeast Asia",
+            "source_urls": [
+                "https://www.metropolisindia.com/blog/preventive-healthcare/betel-leaf-benefits",
+                "https://pharmeasy.in/blog/ayurveda-uses-benefits-side-effects-of-betel-leaves/",
+                "https://pmc.ncbi.nlm.nih.gov/articles/PMC3892533/",
+                "https://www.apollo247.com/health-topics/general-medical-consultation/betel-leaf-health-benefits",
+                "https://redcliffelabs.com/myhealth/food-and-nutrition/10-amazing-paan-leaf-benefits-we-bet-you-dont-know/"
+            ]
+        }
+    },
+    {
+        "image_path": "images/bhringraj_1.jpg",
+        "captions": [
+            "Prevents Premature Greying - Rich in antioxidants and iron, helps maintain natural hair colour and prevents early greying.",
+            "Treats Dandruff & Scalp Infections - Its anti-fungal and anti-inflammatory properties reduce dandruff, dryness, and scalp irritation.",
+            "Improves Liver Health - Supports detoxification and promotes bile secretion, useful in conditions like jaundice and fatty liver.",
+            "Boosts Immunity - Strengthens the body’s natural defence system against infections through immunomodulatory effects.",
+            "Enhances Skin Health - Cooling and healing properties make it effective for acne, eczema, and rashes.",
+            "Supports Digestion - Stimulates digestive enzymes, reducing bloating and constipation.",
+            "Reduces Stress & Anxiety - Calms the nervous system, reduces stress, and promotes better sleep."
+        ],
+        "metadata": {
+            "species": "Eclipta prostrata",
+            "common_name": "Bhringraj",
+            "family": "Asteraceae",
+            "region": "India, Southeast Asia",
+            "source_urls": [
+                "https://www.1mg.com/ayurveda/bhringraj-23?wpsrc=Google+Organic+Search",
+                "https://www.verywellhealth.com/the-benefits-of-bhringaraj-oil-88825",
+                "https://www.netmeds.com/c/health-library/post/bhringaraj-benefits-for-hair-uses-dosage-formulations-and-side-effects"
+            ]
+        }
+    },
+    {
+        "image_path": "images/common_rue_1.jpg",
+        "captions": [
+            "Treats fungal infections like athlete’s foot and dermatitis with its antifungal properties; provides relief from itching.",
+            "Clears skin complexion and eliminates free radicals, preventing premature aging and keeping skin healthy.",
+            "Rue oil is used in therapeutic facial steams at spas for skin benefits.",
+            "Acts as an insecticide; its oil or extract is used to remove lice from hair, relieving itching and preventing infestations.",
+            "Common Rue oil nourishes and repairs damaged hair, making it healthy and shiny.",
+            "Used in treating epilepsy and hysteria due to its sedative and antiepileptic properties.",
+            "Contains neurotoxin that relaxes and desensitizes nerves.",
+            "As a natural insecticide and pesticide, it drives away insects and pests, helping prevent disease; used in fumigants, vaporizers, and sticks.",
+            "Exhibits antibacterial properties, treating infections like colon infection, urinary tract infection, and food poisoning caused by Salmonella."
+        ],
+        "metadata": {
+            "species": "Ruta graveolens",
+            "common_name": "Common Rue (Naagdalli)",
+            "family": "Rutaceae",
+            "region": "Mediterranean, Asia",
+            "source_urls": [
+                "https://en.wikipedia.org/wiki/Ruta_graveolens",
+                "https://www.planetayurveda.com/common-rue-ruta-graveolens/?srsltid=AfmBOooyzkTqTkbk9OmPkAYH5GmUH7cJfsCTE0G2W30nGut7iVMHCN75",
+                "https://www.webmd.com/vitamins/ai/ingredientmono-885/rue#precautions",
+                "https://www.thenaruvi.com/products/common-rue/",
+                "https://yoidentity.com/product/nagadali-ruta-graveolens/"
+            ]
+        }
+    },
+    {
+        "image_path": "images/doddapatre_1.jpg",
+        "captions": [
+            "Rich source of vitamins and minerals, including vitamin C, calcium, and iron.",
+            "Contains antioxidants like rosmarinic acid with anti-inflammatory effects that protect against chronic diseases such as heart disease and cancer.",
+            "High vitamin A content supports healthy vision.",
+            "Exhibits antimicrobial properties that help fight harmful bacteria and viruses.",
+            "Traditionally used in herbal medicine to treat digestive issues like bloating and constipation.",
+            "Studies suggest neuroprotective properties that may help prevent or slow neurological conditions such as Alzheimer’s disease."
+        ],
+        "metadata": {
+            "species": "Plectranthus amboinicus",
+            "common_name": "Doddapatre / Indian Borage / Cuban Oregano",
+            "family": "Lamiaceae",
+            "region": "India, Caribbean, Southeast Asia",
+            "source_urls": [
+                "https://swayampaaka.com/nutrition/health-benefits-of-doddapatre-indian-borage-remedies/",
+                "https://urbanmali.com/blogs/doddapatre",
+                "https://hebbarskitchen.com/ajwain-leaves-benefits-uses/",
+                "https://vegrecipesofkarnataka.com/collection-recipes-doddapathre.php"
+            ]
+        }
+    },
+    {
+        "image_path": "images/eucalyptus_1.jpg",
+        "captions": [
+            "Eucalyptus products may help relieve coughs related to respiratory conditions like bronchitis and upper respiratory tract infections.",
+            "Inhaling eucalyptus vapor or using rubs with eucalyptus oil can loosen chest mucus and make coughing more effective.",
+            "Eucalyptus oil has antibacterial and antimicrobial properties that may help protect against MRSA infections.",
+            "Inhaling eucalyptus oil steam can ease breathing by reducing and loosening mucus, benefiting conditions such as sinusitis, bronchitis, COPD, and asthma.",
+            "Eucalyptus citriodora oil shows potential in managing blood sugar levels, though human studies are still limited.",
+            "Its anti-inflammatory properties may soothe cold sores, reduce pain, and promote faster healing when applied topically with a carrier oil.",
+            "Eucalyptus oil’s antibacterial effects may help fight germs that cause bad breath, making it useful for oral hygiene."
+        ],
+        "metadata": {
+            "species": "Eucalyptus spp.",
+            "common_name": "Eucalyptus",
+            "family": "Myrtaceae",
+            "region": "Australia, widely cultivated globally",
+            "source_urls": [
+                "https://www.webmd.com/vitamins/ai/ingredientmono-700/eucalyptus#overview",
+                "https://www.healthline.com/nutrition/eucalyptus-leaves#antioxidants",
+                "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/eucalypt",
+                "https://www.medicalnewstoday.com/articles/266580#benefits-and-uses",
+                "https://www.britannica.com/plant/Eucalyptus"
+            ]
+        }
+    },
+    {
+        "image_path": "images/guava_1.jpg",
+        "captions": [
+            "Guava leaf extract may provide mild relief for conditions like menstrual cramps, gingivitis, and knee pain, though evidence is limited.",
+            "Eating guava regularly may help lower blood pressure and improve cardiovascular health.",
+            "Guava leaves support digestive health with antibacterial properties and high fiber that aid digestion and relieve constipation.",
+            "They help regulate blood sugar levels, stabilizing glucose spikes after meals and supporting diabetes management.",
+            "Rich in vitamin C and antioxidants, guava leaves boost the immune system and help the body fight infections.",
+            "Their powerful antioxidants reduce the risk of cancer by protecting cells from damage and mutations.",
+            "Guava leaves lower bad cholesterol and improve good cholesterol, contributing to heart health.",
+            "The vitamin A in guava leaves supports good eyesight, sharpens vision, and prevents eye-related issues.",
+            "They act as a natural stress reliever, helping reduce anxiety and promoting mental calmness.",
+            "Guava leaves aid in weight loss by boosting metabolism and supporting efficient calorie burning.",
+            "They may relieve menstrual pain and discomfort, easing cramps naturally.",
+            "With antibacterial and antioxidant properties, guava leaves improve skin health by reducing acne, fine lines, and wrinkles, while also promoting hair growth."
+        ],
+        "metadata": {
+            "species": "Psidium guajava",
+            "common_name": "Guava",
+            "family": "Myrtaceae",
+            "region": "Tropical and subtropical regions",
+            "source_urls": [
+                "https://www.webmd.com/vitamins/ai/ingredientmono-1133/guava#overview",
+                "https://www.healthline.com/nutrition/8-benefits-of-guavas",
+                "https://pmc.ncbi.nlm.nih.gov/articles/PMC8066327/",
+                "https://redcliffelabs.com/myhealth/health/amazing-health-benefits-of-guava-leaves-in-daily-routine/"
+            ]
+        }
+    },
+    {
+        "image_path": "images/mango_1.jpg",
+        "captions": [
+            "Mangoes are rich in vitamins K and C, supporting strong bones, healthy blood clotting, and collagen production.",
+            "The antioxidants in mangoes, such as beta-carotene and mangiferin, help fight free radicals and may lower the risk of cancer.",
+            "Mangoes support heart health with magnesium and potassium, which regulate blood pressure and pulse, while mangiferin may reduce heart inflammation.",
+            "They promote digestive health through amylase compounds that break down starches and dietary fiber that relieves constipation.",
+            "Mangoes boost the immune system with carotenoids and antioxidants that enhance defense mechanisms.",
+            "High vitamin C content in mangoes helps produce collagen, improving skin elasticity and preventing wrinkles and sagging.",
+            "Extracts from mango leaves may reduce acne and improve skin health, though more research is needed.",
+            "Eating mangoes daily has been shown to ease constipation more effectively than fiber supplements.",
+            "Mangoes are rich in beta-carotene, lutein, and zeaxanthin, which protect the eyes, retina, and lens, supporting long-term eye health.",
+            "Mango leaves contain phenolics and flavonoids that act as antioxidants, protecting against cellular damage caused by free radicals.",
+            "Mango leaves exhibit anti-inflammatory properties that may reduce oxidative stress and inflammation linked to neurodegenerative diseases.",
+            "Animal studies suggest mango leaf extract may help lower blood sugar and improve insulin function, showing promise for diabetes management.",
+            "Mango leaf infusions promote digestive health by acting as a stomach tonic, flushing out toxins, and preventing ulcers and disorders."
+        ],
+        "metadata": {
+            "species": "Mangifera indica",
+            "common_name": "Mango",
+            "family": "Anacardiaceae",
+            "region": "South Asia, widely cultivated in tropical and subtropical regions",
+            "source_urls": [
+                "https://pmc.ncbi.nlm.nih.gov/articles/PMC3249901/",
+                "https://www.healthline.com/nutrition/mango#4-High-in-healthy-plant-compounds",
+                "https://www.webmd.com/diet/health-benefits-mango",
+                "https://www.health.com/nutrition/health-benefits-mango"
+            ]
+        }
+    },
+    {
+        "image_path": "images/neem_1.jpg",
+        "captions": [
+            "A neem tree branch with fresh green leaves",
+            "Neem leaves used for treating acne and skin blemishes",
+            "Herbal neem plant used to boost immunity and detoxify the body",
+            "Reduces dandruff and promotes hair health with antifungal properties",
+            "Supports dental care and oral hygiene",
+            "Neem leaves have wound healing and anti-inflammatory effects",
+            "Natural mosquito and insect repellent"
+        ],
+        "metadata": {
+            "species": "Azadirachta indica",
+            "common_name": "Neem",
+            "family": "Meliaceae",
+            "region": "South Asia, India",
+            "source_urls": [
+                "https://www.ncbi.nlm.nih.gov/books/NBK234637/",
+                "https://www.dabur.com/ayurveda/ayurvedic-medicinal-plants/neem",
+                "https://www.webmd.com/vitamins/ai/ingredientmono-577/neem#precautions",
+                "https://www.medicalnewstoday.com/articles/325048#benefits"
+            ]
+        }
+    },
+    {
+        "image_path": "images/noni_1.jpg",
+        "captions": [
+            "Fresh noni leaves with glossy green surface",
+            "Noni leaves used in traditional medicine to help manage diabetes, high blood pressure, and inflammation",
+            "Leaves cooked in curries, soups, steamed wraps, and stir-fries for easier consumption",
+            "Topical use of noni leaves for burns, chest colds, and inflammation",
+            "Roots and fruit preparations used in herbal remedies for fevers, ulcers, and immune support",
+            "Flowers traditionally applied for eye conditions like conjunctivitis",
+            "Noni leaves and fruit are believed to act as antioxidants and boost overall health"
+        ],
+        "metadata": {
+            "species": "Morinda citrifolia",
+            "common_name": "Noni (Nooni)",
+            "family": "Rubiaceae",
+            "region": "Polynesia, Southeast Asia, India, Pacific Islands",
+            "source_urls": [
+                "https://specialtyproduce.com/produce/Noni_Leaves_17948.php",
+                "https://www.drugs.com/npc/noni.html",
+                "https://www.sciencedirect.com/science/article/abs/pii/S0899900716301976",
+                "https://www.rxlist.com/supplements/noni.htm",
+                "https://www.ctahr.hawaii.edu/noni/uses.asp",
+                "https://agritech.tnau.ac.in/horticulture/horti_medicinal%20crops_noni.html"
+            ]
+        }
+    },
+    {
+        "image_path": "images/papaya_leaf_1.jpg",
+        "captions": [
+            "Fresh green papaya leaves used in traditional remedies",
+            "Papaya leaf extract widely used to increase platelet count in dengue patients",
+            "Traditionally used for managing blood sugar and diabetes support",
+            "Papaya leaf tea or extract supports digestion and relieves bloating and constipation",
+            "Topically applied for skin care, wound healing, acne, and reducing scars",
+            "Used for its anti-inflammatory effects in conditions like arthritis and joint pain",
+            "Rich in vitamin C, boosting the immune system and supporting overall health"
+        ],
+        "metadata": {
+            "species": "Carica papaya",
+            "common_name": "Papaya Leaf",
+            "family": "Caricaceae",
+            "region": "Tropical regions worldwide, including South Asia, Central America, and Africa",
+            "source_urls": [
+                "https://www.healthline.com/nutrition/papaya-leaf#1-May-treat-symptoms-related-to-dengue-fever",
+                "https://www.healthline.com/nutrition/papaya-leaf#2-May-promote-balanced-blood-sugar",
+                "https://www.vinmec.com/eng/blog/what-are-the-benefits-of-papaya-leaves-en",
+                "https://www.sakraworldhospital.com/blogs/benefits-of-papaya-leaves/374"
+            ]
+        }
+    },
+    {
+        "image_path": "images/pepper_leaf_1.jpg",
+        "captions": [
+            "Fresh Thai pepper leaves with vibrant green color",
+            "Pepper leaves used in Southeast Asian cooking and curries",
+            "Green Thai pepper leaves are rich in vitamins A and B and antioxidants",
+            "Traditionally cooked in stir-fries, sautéed dishes, and soups",
+            "Pureed pepper leaves used as a natural green colorant in Thai curry paste",
+            "Tender leaves provide mild flavor without the strong heat of chili fruits"
+        ],
+        "metadata": {
+            "species": "Capsicum annuum",
+            "common_name": "Thai Pepper Leaf",
+            "family": "Solanaceae",
+            "region": "Southeast Asia, including Thailand, Malaysia, Singapore, Indonesia, Laos, and Cambodia",
+            "source_urls": [
+                "https://specialtyproduce.com/produce/Thai_Pepper_Leaves_9645.php"
+            ]
+        }
+    },
+    {
+        "image_path": "images/radish_leaf_1.jpg",
+        "captions": [
+            "Radish leaves act as a natural diuretic, helping dissolve stones and cleanse the urinary bladder",
+            "They have laxative properties that ease constipation and bloating",
+            "Rich in vitamin C, radish leaves prevent scurvy and boost immunity",
+            "Anti-inflammatory and antibacterial properties help treat piles and reduce rheumatism pain",
+            "High in iron, radish leaves combat anaemia and reduce fatigue",
+            "Dietary fibre in radish leaves supports heart health and helps regulate cholesterol",
+            "They help reduce blood sugar levels and support diabetes prevention"
+        ],
+        "metadata": {
+            "species": "Raphanus raphanistrum subsp. sativus",
+            "common_name": "Radish Leaves",
+            "family": "Brassicaceae",
+            "region": "Worldwide, commonly cultivated in temperate regions",
+            "source_urls": [
+                "https://www.lybrate.com/topic/radish-leaves-benefits",
+                "https://www.healthline.com/nutrition/are-radish-greens-edible",
+                "https://www.healthline.com/nutrition/are-radish-greens-edible#downsides",
+                "https://www.healthshots.com/healthy-eating/nutrition/5-health-benefits-of-radish-leaves-or-mooli-ke-patte/"
+            ]
+        }
+    },
+    {
+        "image_path": "images/tamarind_leaf_1.jpg",
+        "captions": [
+            "Tamarind leaves provide relief from malaria by inhibiting Plasmodium falciparum growth",
+            "They help regulate blood sugar levels and improve insulin sensitivity, supporting diabetes management",
+            "High in vitamin C, tamarind leaves prevent and cure scurvy",
+            "Antiseptic properties help wounds heal faster and prevent infections",
+            "Consumption can improve lactation and the quality of breast milk in mothers",
+            "Leaves possess analgesic and anti-inflammatory properties, helping relieve menstrual cramps and joint pain",
+            "Tamarind leaves improve oral health, alleviating toothache and bad breath"
+        ],
+        "metadata": {
+            "species": "Tamarindus indica",
+            "common_name": "Tamarind Leaves",
+            "family": "Fabaceae",
+            "region": "Tropical regions of Africa, Asia, and the Indian subcontinent",
+            "source_urls": [
+                "https://www.lybrate.com/topic/tamarind-leaves-benefits",
+                "https://www.stylecraze.com/articles/amazing-health-benefits-of-tamarind-leaves/"
+            ]
+        }
+    }
+]
