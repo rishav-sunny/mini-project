@@ -1,8 +1,30 @@
 [
-  {
-    image:"amruthabulli"
-    caption: 
-      ""
-      ""
-  }
+    {
+        "image_path": "images/amruthaballi.jpg",
+        "captions": [
+            "Leaves are simple heart shaped, very thin with long leaf",
+            "Amruthaballi traditionally used to manage fevers, infections, and digestive issues",
+            "This hearty green climber is known for its ability to boost immunity, detoxify the body",
+            "Lemongrass with tall slender leaves, widely used in Ayurveda",
+            "Herbal plant believed to lower blood pressure and boost oral health",
+            "Citrusy herbal plant rich in citral compound with antimicrobial effects",
+            "Fresh lemongrass stalks commonly brewed into calming herbal tea"
+        ],
+        "metadata": {
+            "species": "Tinospora Cordifolia",
+            "common_name": "Giloy","Amrita","Guduchi","Tinospora Cordifolia",
+            "family": "Menispermaceae ",
+            "region": "tropical and subtropical zones of India and other areas in South and Southeast Asia, including Myanmar and Sri Lanka",
+            "source_urls": [
+                "https://farmfreshbangalore.com/products/amrutha-balli-1-bunch",
+                "https://www.1mg.com/ayurveda/giloy-24?srsltid=AfmBOoqXF-B-szCQnZXKXx4_ZvtJBx31Ao6FyMR_TWUmKbgd9t9Be8mk&wpsrc=Google+Organic+Search",
+            ]
+        }
+    },
+    {
+        "image_path": "image/Astma_weed",
+        "captions":[
+          
+        ]
+    }
 ]
